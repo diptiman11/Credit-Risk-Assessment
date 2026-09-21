@@ -18,7 +18,6 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, TypeScript, Tailwind CSS, Vite
 * **Data Visualization:** Recharts, Lucide React
 * **Analytics:** K-Means clustering, anomaly detection (z-score)
 
